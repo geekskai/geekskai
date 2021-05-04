@@ -26,7 +26,5 @@ I create tech content, mostly about Web Development and JavaScript, **but** I al
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitHubGankai&hide=java,php&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitHubGankai&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitHubGankai&hide=java,php&theme=radical)](https://github.com/anuraghazra/github-readme-stats)    [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitHubGankai&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
