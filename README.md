@@ -28,3 +28,4 @@ I create tech content, mostly about Web Development and JavaScript, **but** I al
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geekskai&hide=java,php&theme=radical)](https://github.com/anuraghazra/github-readme-stats)    [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=geekskai&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://app.daily.dev/gankai"><img src="https://api.daily.dev/devcards/06706868ec594e1b973631129dd20387.png?r=uys" width="400" alt="gankai's Dev Card"/></a>
