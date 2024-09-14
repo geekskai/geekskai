@@ -4,9 +4,11 @@
 
 [![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FGeeksKai)](https://twitter.com/GeeksKai) 🤙
 
-A Software Engineer specializing in JavaScript technologies. Professional experience with the technologies listed in the **toolbox** below.
+I’m a Software Engineer specializing in JavaScript technologies, with over seven years of professional experience in building dynamic and responsive web applications. I have a strong background in front-end development, having worked extensively with frameworks like React, Next.js, and Tailwind CSS. My expertise also extends to optimizing performance, enhancing user interfaces, and collaborating with cross-functional teams to deliver exceptional web experiences.
 
-I create tech content, mostly about Web Development and JavaScript, **but** I also talk about other topics than coding.
+In addition to my development work, I create tech content, primarily focused on Web Development and JavaScript. While coding is my main focus, I also enjoy exploring and discussing broader tech topics. Currently, I’m expanding my skill set by diving into backend development with Go (Golang), aiming to become a more versatile developer.
+
+I’m always eager to learn, share, and contribute to the tech community.
 
 ---
 
