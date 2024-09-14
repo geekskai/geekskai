@@ -2,13 +2,24 @@
 
 ---
 
-[![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FGeeksKai)](https://twitter.com/GeeksKai) 🤙
+[![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FGeeksKai)](https://twitter.com/GeeksKai)
 
-I’m a Software Engineer specializing in JavaScript technologies, with over seven years of professional experience in building dynamic and responsive web applications. I have a strong background in front-end development, having worked extensively with frameworks like React, Next.js, and Tailwind CSS. My expertise also extends to optimizing performance, enhancing user interfaces, and collaborating with cross-functional teams to deliver exceptional web experiences.
+I’m a Software Engineer specializing in JavaScript technologies with over 7 years of experience in building dynamic and responsive web applications. 
+💻 I’ve worked extensively with frameworks, focusing on performance optimization ⚡
+user interface enhancements 🎨, and collaborating with cross-functional teams to deliver exceptional web experiences.🌐
 
-In addition to my development work, I create tech content, primarily focused on Web Development and JavaScript. While coding is my main focus, I also enjoy exploring and discussing broader tech topics. Currently, I’m expanding my skill set by diving into backend development with Go (Golang), aiming to become a more versatile developer.
+In addition to development, I create tech content primarily about Web Development and JavaScript. While coding is my main focus, I also enjoy exploring and discussing other tech topics 🔍.
+Currently, I’m expanding my skill set by learning Go (Golang) to become a more versatile developer 🚀.
 
-I’m always eager to learn, share, and contribute to the tech community.
+🛠️ Skills:
+
+JavaScript (ES6+)
+React & Next.js
+Tailwind CSS & CSS-in-JS
+Performance Optimization ⚡
+Responsive Design 🎨
+Backend with Go (Golang) 🌐
+I’m passionate about learning 📚, sharing 💡, and contributing to the tech community 🤝.
 
 ---
 
