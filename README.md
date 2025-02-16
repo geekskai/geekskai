@@ -49,6 +49,3 @@ Currently, I’m expanding my skill set by learning Go (Golang) to become a more
 
 <p align="left"><a href="https://paypal.me/geekskai" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=plastic&logo=paypal&logoColor=white" height="36" style="margin-right: 4px"></a></p>
 
-
-## My dev card
-<a href="https://app.daily.dev/gankai"><img src="https://api.daily.dev/devcards/06706868ec594e1b973631129dd20387.png?r=bno" width="400" alt="gankai's Dev Card"/></a>
